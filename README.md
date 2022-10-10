@@ -18,7 +18,7 @@
 
 #### Software Engineer (October 2020 - December 2021)
 
-- In charge of developing web applications using Go/AWS
+- In charge of developing web applications
   - Keywords: Go, Vue.js, Docker, ECS, Aurora, ElastiCache, SNS, SQS, S3, CloudFront, Terraform, Datadog, GitHub Actions
 
 ### CyberAgent, Inc. (May 2018 - September 2020)
