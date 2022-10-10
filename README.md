@@ -1,5 +1,10 @@
 # Masaya Hayashi
 
+- Twitter: https://twitter.com/rinchsan
+- GitHub: https://github.com/rinchsan
+- Zenn: https://zenn.dev/rinchsan
+- Qiita: https://qiita.com/rinchsan
+
 ## Summary
 
 - Technical Skills: 5+ years of experience in Go, Docker, AWS
