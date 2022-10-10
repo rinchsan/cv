@@ -3,7 +3,7 @@
 ## Summary
 
 - Technical Skills: 5+ years of experience in Go, Docker, AWS
-- Project Experiences: Web application development from scratch, DevOps with 20+ team members
+- Project Experience: Web application development from scratch, DevOps with 20+ team members
 
 ## Work Experience
 
