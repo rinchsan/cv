@@ -18,34 +18,34 @@
 
 #### エンジニアリングマネージャー (2022年1月〜現在)
 
-- In charge of organizing agile engineering teams
-  - Keywords: Agile, Scrum, DevOps, Four Keys, Team Topologies
-- In charge of recruiting Software Engineers
-  - Keywords: Job Descriptions, Scouting, Structured Interview
+- アジャイルなエンジニアリング組織作りに従事
+  - キーワード：アジャイル、スクラム、DevOps、Four Keys、チームトポロジー
+- エンジニア採用に従事
+  - キーワード：職務記述書、スカウト、構造化面接
 
 #### ソフトウェアエンジニア (2020年10月〜2021年12月)
 
-- In charge of developing web applications
-  - Keywords: Go, Vue.js, Docker, ECS, Aurora, ElastiCache, SNS, SQS, S3, CloudFront, Terraform, Datadog, GitHub Actions
+- Webアプリケーション開発に従事
+  - キーワード：Go、Vue.js、Docker、ECS、Aurora、ElastiCache、SNS、SQS、S3、CloudFront、Terraform、Datadog、GitHub Actions
 
 ### 株式会社サイバーエージェント (2018年5月〜2020年9月)
 
 #### ソフトウェアエンジニア (2019年4月〜2020年9月)
 
-- In charge of developing backend applications for mobile applications
-  - Keywords: Go, Docker, ECS, Aurora, S3, CloudFront, Terraform, Datadog, CircleCI
+- モバイルアプリをクライアントとするサーバサイドアプリケーション開発に従事
+  - キーワード：Go、Docker、ECS、Aurora、S3、CloudFront、Terraform、Datadog、CircleCI
 
 #### ソフトウェアエンジニアインターン (2018年5月〜2019年3月)
 
-- In charge of developing backend applications for mobile applications from scratch
-  - Keywords: Go, Docker, ECS, Aurora, S3, CloudFront, Terraform, Datadog, CircleCI
+- モバイルアプリをクライアントとするサーバサイドアプリケーションの新規開発に従事
+  - キーワード：Go、Docker、ECS、Aurora、S3、CloudFront、Terraform、Datadog、CircleCI
 
 ## 学歴
 
 ### 東京大学 (2016年4月〜2019年3月)
 
-- Major in Electrical and Electronic Engineering
+- 電気電子工学科で電気電子/情報分野を専攻
 
 ### 明石工業高等専門学校 (2011年4月〜2016年3月)
 
-- Major in Electrical and Information Engineering
+- 電気情報工学科で電気電子/情報分野を専攻
