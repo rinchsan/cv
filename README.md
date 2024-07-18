@@ -16,7 +16,12 @@ EN / [JP](README_JP.md)
 
 ### SODA inc. (October 2020 - Present)
 
-#### Engineering Manager (January 2022 - Present)
+#### Chief Technology Officer (October 2023 - Present)
+
+- In charge of developing and implementing technology storategy
+- In charge of developing and implementing organizational strategy
+
+#### VP of Engineering (January 2022 - September 2023)
 
 - In charge of organizing agile engineering teams
   - Keywords: Agile, Scrum, DevOps, Four Keys, Team Topologies
