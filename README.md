@@ -9,6 +9,7 @@ EN / [JP](README_JP.md)
 
 ## Summary
 
+- Strategic Skills: Design and implementation of technology and organizational strategies
 - Technical Skills: 5+ years of experience in Go, Docker, AWS
 - Project Experience: Web application development from scratch, DevOps with 20+ team members
 
