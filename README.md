@@ -18,8 +18,8 @@ EN / [JP](README_JP.md)
 
 #### Chief Technology Officer (October 2023 - Present)
 
-- In charge of developing and implementing technology storategy
-- In charge of developing and implementing organizational strategy
+- In charge of designing and implementing technology storategy
+- In charge of designing and implementing organizational strategy
 
 #### VP of Engineering (January 2022 - September 2023)
 
