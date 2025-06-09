@@ -17,9 +17,14 @@ EN / [JP](README_JP.md)
 
 ### SODA inc. (October 2020 - Present)
 
-#### Chief Technology Officer (October 2023 - Present)
+#### VP of Technology (April 2025 - Present)
 
-- In charge of designing and implementing technology storategy
+- In charge of designing and implementing technology strategy
+- In charge of designing and implementing organizational strategy
+
+#### Chief Technology Officer (October 2023 - March 2025)
+
+- In charge of designing and implementing technology strategy
 - In charge of designing and implementing organizational strategy
 
 #### VP of Engineering (January 2022 - September 2023)
